@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nolan  
 
-🎓 **20-year-old student at 42 Luxembourg**  
+🎓 **21-year-old student at 42 Luxembourg**  
 💻 **I mainly code in C** (but I'm learning other languages like TypeScript 🚀).  
 🐧 **I’m proficient in Git and Linux** and love working in a terminal environment.  
 
