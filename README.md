@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## � Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
 </div>
 
@@ -58,7 +58,7 @@
 <td width="50%">
 
 ### 🤖 [AI Video Analysis](https://github.com/nocyb/AI-Video-Analysis)
-<img src="https://img.shields.io/badge/AI-Computer_Vision-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Computer_Vision-6C7B95?style=for-the-badge"/>
 
 Advanced AI-powered video analysis tool that processes MP4 files to intelligently detect and identify objects. Takes video files as input and outputs the same video with bounding boxes and automatic labeling of detected elements.
 
@@ -69,7 +69,7 @@ Advanced AI-powered video analysis tool that processes MP4 files to intelligentl
 <td width="50%">
 
 ### 🍽️ [Philosophers](https://github.com/nocyb/Philosophers)
-<img src="https://img.shields.io/badge/Algorithm-Concurrency-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithm-Concurrency-6C7B95?style=for-the-badge"/>
 
 Elegant solution to the famous Dining Philosophers problem, demonstrating advanced concurrency concepts and deadlock prevention strategies in C programming.
 
