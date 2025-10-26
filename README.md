@@ -62,7 +62,7 @@
 
 Advanced AI-powered video analysis tool that processes MP4 files to intelligently detect and identify objects. Takes video files as input and outputs the same video with bounding boxes and automatic labeling of detected elements.
 
-**🔧 Tech Stack:** Python, OpenCV
+**🔧 Tech Stack:** Python, OpenCV  
 **⭐ Features:** MP4 file processing, Object classification, Bounding box visualization
 
 </td>
