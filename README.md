@@ -38,8 +38,16 @@
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nocyb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocyb&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,cmake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nocyb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nocyb&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nocyb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nocyb&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,cmake&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nocyb&layout=compact&langs_count=8&theme=default&hide=jupyter%20notebook,cmake&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocyb&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,cmake&cache_seconds=86400" alt="Top Languages"/>
+</picture>
 
 </div>
 
@@ -88,6 +96,10 @@ Elegant solution to the famous Dining Philosophers problem, demonstrating advanc
 
 ## 🌟 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nocyb&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nocyb&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nocyb&bg_color=ffffff&color=333333&line=2188ff&point=f85149&area=true&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nocyb&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Activity Graph" />
+</picture>
 
 </div>
