@@ -2,7 +2,7 @@
 
 # 💫 Hey, I'm Nolan! 
 
-🎓 **21-year-old student at 42 Luxembourg**  
+🎓 **22-year-old student at 42 Luxembourg**  
 💻 **Mastering low-level programming and algorithmic thinking**  
 🚀 **Passionate software developer always learning new technologies**
 
